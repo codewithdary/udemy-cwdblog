@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Laravel",
+        "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
+        "slug": "laravel"
+    },
+    {
+        "name": "Symfony",
+        "description": "Symfony is a feature-rich back-end framework that is used to build complex applications. The framework provides a range of tools and features specifically designed for building scalable PHP web applications, including support for multiple environments and a robust caching system.",
+        "slug": "symfony"
+    },
+    {
+        "name": "Tailwind CSS",
+        "description": "A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.",
+        "slug": "tailwind-css"
+    }
+]
